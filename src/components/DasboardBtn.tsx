@@ -1,7 +1,7 @@
 "use client"
 
 import { SparklesIcon } from "lucide-react";
-import { Button } from "./ui/button";
+import { Button } from "./button";
 import Link from "next/link";
 import { useUserRole } from "@/hooks/useUserRole";
 
